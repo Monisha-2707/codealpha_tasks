@@ -1,5 +1,11 @@
 # Universal Language Translator
 
+## Live Demo
+https://monisha-2707.github.io/codealpha_tasks/Task1_Translator/
+
+## GitHub Repository
+https://github.com/Monisha-2707/codealpha_tasks
+
 A multilingual language translator developed as part of the CodeAlpha Internship Program.
 
 ## Features

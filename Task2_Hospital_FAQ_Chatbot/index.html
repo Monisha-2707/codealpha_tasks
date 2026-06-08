@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>FAQ Chatbot</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <div id="header">
+    <div class="avatar">⚕️</div>
+    <div class="info">
+      <div class="name">Hospital Care Assistant</div>
+      <div class="status">
+  <span class="online-dot"></span>
+  Online — here to help
+</div>
+    </div>
+    <button id="themeBtn">🌙</button>
+  </div>
+  <div id="msgs"></div>
+  <div id="suggestions"></div>
+  <div id="inputrow">
+    <input type="text" id="qInput" placeholder="Ask me anything..." autocomplete="off" />
+    <button id="sendBtn">Send ➤</button>
+  </div>
+</div>
+
+<script src="https://unpkg.com/compromise"></script>
+<script type="module">
+
+import { pipeline } from 'https://cdn.jsdelivr.net/npm/@xenova/transformers';
+
+window.featureExtractor = await pipeline(
+    "feature-extraction",
+    "Xenova/all-MiniLM-L6-v2"
+);
+
+console.log("Embedding model loaded");
+
+await buildFAQEmbeddings();
+
+console.log("FAQ embeddings ready");
+
+</script>
+<script src="script.js"></script>
+</body>
+</html>
+

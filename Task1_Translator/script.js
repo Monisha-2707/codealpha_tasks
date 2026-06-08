@@ -985,8 +985,11 @@ function googleTTSAudio(text, locale) {
   const a = new Audio(url);
   a.onplay  = () => setStatus('🔊 Speaking via Google TTS…');
   a.onended = () => setStatus('✅ Done speaking.');
-  a.onerror = () => setStatus('⚠️ Voice not available. Try Chrome for best support.');
-  a.play().catch(() => setStatus('⚠️ Could not play audio. Use Chrome for best language voice support.'));
+  a.onerror = () =>
+  setStatus('⚠️ Speech voice is not available for the selected language on this device. Try Hindi or English, or install additional language voices in your browser/operating system.');
+
+  a.play().catch(() =>
+  setStatus('⚠️ Speech voice is not available for the selected language on this device. Try Hindi or English, or install additional language voices in your browser/operating system.'));
 }
 
 function findVoice(langCode) {

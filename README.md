@@ -7,14 +7,14 @@ CodeAlpha Internship Tasks
 Live Demo:
 https://monisha-2707.github.io/codealpha_tasks/Task1_Translator/
 
-## GitHub Repository
+GitHub Repository:
 https://github.com/Monisha-2707/codealpha_tasks/tree/main/Task1_Translator
 
 ## Task 2 - Hospital FAQ Chatbot
 Live Demo:
 https://monisha-2707.github.io/codealpha_tasks/Task2_Hospital_FAQ_Chatbot/
 
-## GitHub Repository 
+GitHub Repository:
 https://github.com/Monisha-2707/codealpha_tasks/tree/main/Task2_Hospital_FAQ_Chatbot
 
 ## Complete Repository

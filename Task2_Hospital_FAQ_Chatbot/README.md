@@ -1,6 +1,7 @@
 # Hospital FAQ Chatbot
 
-**Live Demo:** https://monisha-2707.github.io/codealpha_tasks/Task2_Hospital_FAQ_Chatbot/
+**Live Demo:** 
+https://monisha-2707.github.io/codealpha_tasks/Task2_Hospital_FAQ_Chatbot/
 
 **Features**
 - Interactive chatbot interface
@@ -12,7 +13,8 @@
 
 
 **Technologies Used:**
-HTML,CSS,JavaScript
+
+HTML, CSS, JavaScript
 
 
 **How to Run:**

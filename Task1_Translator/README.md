@@ -1,4 +1,4 @@
-**Universal Language Translator**
+## Universal Language Translator
 
 Live Demo : https://monisha-2707.github.io/codealpha_tasks/Task1_Translator/
 
@@ -31,4 +31,6 @@ THis project is best experienced in modern browsers such as google chrome and mi
 1. Speech Recognition and Text to speech rely on browser and operating system support.
 2. Some languages may not have native voice support on all devices.
 3. If a voice featur does not work in one browser, try Chrome or Edge.
+
+## Screenshots
 

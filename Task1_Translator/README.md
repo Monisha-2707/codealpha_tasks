@@ -24,8 +24,8 @@ HTML,CSS,JavaScript,Web Speech API,Google Translation APIs
 
 ## Browser compatibility
 THis project is best experienced in modern browsers such as google chrome and microsoft edge.
-Note:
-1.Speech Recognition and Text to speech rely on browser and operating system support.
-2.Some languages may not have native voice support on all devices.
-3.If a voice featur does not work in one browser, try Chrome or Edge.
+### Note:
+1. Speech Recognition and Text to speech rely on browser and operating system support.
+2. Some languages may not have native voice support on all devices.
+3. If a voice featur does not work in one browser, try Chrome or Edge.
 

@@ -10,7 +10,7 @@ Live Demo : https://monisha-2707.github.io/codealpha_tasks/Task1_Translator/
 - copy translated text instantly
 - support for Indian and international languages
 
-**Technologies used :** 
+**Technologies used:** 
 HTML,CSS,JavaScript,Web Speech API,Google Translation APIs
 
 **How to Run**
@@ -22,7 +22,8 @@ HTML,CSS,JavaScript,Web Speech API,Google Translation APIs
 6. View the translated output.
 7. Click the **Speak** button to hear the translated text.
 
-**Browser compatibility**
+**Browser compatibility:**
+
 THis project is best experienced in modern browsers such as google chrome and microsoft edge.
 **Note:**
 1. Speech Recognition and Text to speech rely on browser and operating system support.

@@ -34,3 +34,6 @@ THis project is best experienced in modern browsers such as google chrome and mi
 
 ## Screenshots
 
+<img width="1436" height="816" alt="Screenshot 2026-06-10 195840" src="https://github.com/user-attachments/assets/160c3b25-c3c6-4255-81c5-ee2e334b32b8" />
+
+

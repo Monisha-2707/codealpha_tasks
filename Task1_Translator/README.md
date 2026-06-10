@@ -14,7 +14,7 @@ Live Demo : https://monisha-2707.github.io/codealpha_tasks/Task1_Translator/
 
 HTML,CSS,JavaScript,Web Speech API,Google Translation APIs
 
-**How to Run**
+**How to Run:**
 1. Launch `index.html` in a web browser.
 2. Enter text the text to be translated.
 3. (Optional) Enable the **Live translation** checkbox for automatic translation while       typing.
@@ -26,6 +26,7 @@ HTML,CSS,JavaScript,Web Speech API,Google Translation APIs
 **Browser compatibility:**
 
 THis project is best experienced in modern browsers such as google chrome and microsoft edge.
+
 **Note:**
 1. Speech Recognition and Text to speech rely on browser and operating system support.
 2. Some languages may not have native voice support on all devices.

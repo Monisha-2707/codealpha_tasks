@@ -10,7 +10,8 @@ Live Demo : https://monisha-2707.github.io/codealpha_tasks/Task1_Translator/
 - copy translated text instantly
 - support for Indian and international languages
 
-**Technologies used:** 
+**Technologies used:**
+
 HTML,CSS,JavaScript,Web Speech API,Google Translation APIs
 
 **How to Run**

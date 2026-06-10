@@ -5,6 +5,7 @@ These are the projects completed as part of the CodeAlpha Artificial Intelligenc
 
 **Task 1 - Universal Language Translator**
 Live Demo:
+
 https://monisha-2707.github.io/codealpha_tasks/Task1_Translator/
 
 

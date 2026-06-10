@@ -32,9 +32,11 @@ https://monisha-2707.github.io/codealpha_tasks/Task2_Hospital_FAQ_Chatbot/
 
 ## Screenshots
 **Light Mode**
+
 <img width="582" height="848" alt="Screenshot 2026-06-10 201857" src="https://github.com/user-attachments/assets/352d1ec2-7cf2-4949-bdc7-8af22d94313b" />
 
 **Dark Mode**
+
 <img width="583" height="847" alt="Screenshot 2026-06-10 201920" src="https://github.com/user-attachments/assets/07a98f04-9a1e-45cf-b670-6670936a307e" />
 
 

@@ -38,8 +38,3 @@ Note:
 - If a voice feature does not work in one browser, try Chrome or Edge.
 
 
-## Project Author
-Monisha Reddy P
-
-## Internship
-CodeAlpha Internship Project

@@ -1,6 +1,7 @@
 # Hospital FAQ Chatbot
 
 **Live Demo:** 
+
 https://monisha-2707.github.io/codealpha_tasks/Task2_Hospital_FAQ_Chatbot/
 
 **Features**
@@ -12,7 +13,11 @@ https://monisha-2707.github.io/codealpha_tasks/Task2_Hospital_FAQ_Chatbot/
 - Quick suggestion chips
 
 
-**Technologies Used:**   HTML, CSS, JavaScript
+**Technologies Used:**   
+
+1. HTML
+2. CSS
+3. JavaScript
 
 
 **How to Run:**
